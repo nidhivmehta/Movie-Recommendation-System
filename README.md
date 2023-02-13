@@ -5,12 +5,18 @@ A content-based recommendation system. The algorithm recommends other movies sim
 The system is integrated with Streamlit to convert it into a web app.
 
 Softwares used:
+
 ML model - Jupyter Notebook
+
 IDE - PyCharm
 
+
 Libraries and Toolkits used:
+
 Python - NumPy, Pandas, pickle
+
 ML - nltk (Natural Language Toolkit), sklearn (scikit-learn)
+
 
 TMDB 5000 Movie Dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
